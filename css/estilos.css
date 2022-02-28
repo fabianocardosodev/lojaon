@@ -1,4 +1,13 @@
 p {
-    color: yellow;
-    background-color: blue;
+    color: white;
+    background-color: black;
+}
+
+body {
+    font-family: "Calibri", "Helvetica", sans-serif;
+    text-align: left;
+}
+
+h1 {
+    background-image: url(sobre-background.jpg);
 }
