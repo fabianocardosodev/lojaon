@@ -11,3 +11,11 @@ body {
 h1 {
     background-image: url(sobre-background.jpg);
 }
+
+body {
+    border: 1px solid red;
+}
+
+body {
+    background-color: gold;
+}
