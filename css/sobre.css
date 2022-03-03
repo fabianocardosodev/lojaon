@@ -9,6 +9,7 @@ body {
 h1 {
     background-image: url(sobre-background.jpg);
     padding: 10px;
+    text-align: right;
 }
 
 h2 {
