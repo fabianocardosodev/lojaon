@@ -1,21 +1,22 @@
-p {
-    color: white;
-    background-color: black;
+.sacola {
+    background-image: url(img/sacola.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    font-size: 14px;
+    padding-right: 35px;
+    text-align: right;
+    width: 140px;
+}
+
+.menu-opcoes ul {
+    font-size: 15px;
+}
+
+.menu-opcoes a {
+    color: #003366;
 }
 
 body {
-    font-family: "Calibri", "Helvetica", sans-serif;
-    text-align: left;
-}
-
-h1 {
-    background-image: url(sobre-background.jpg);
-}
-
-body {
-    border: 1px solid rgb(10, 233, 10);
-}
-
-body {
-    background-color: black;
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
