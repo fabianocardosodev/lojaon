@@ -32,7 +32,7 @@ body {
 
 .container {
     margin: 0 auto;
-    width: 600px;
+    width: 900px;
 }
 
 header {
@@ -41,6 +41,6 @@ header {
 
 .menu-opcoes {
     position: absolute;
-    bottom: -15px;
-    right: 0;
+    bottom: 0px;
+    right: 0px;
 }
