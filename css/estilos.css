@@ -53,3 +53,9 @@ header {
 .menu-departamentos {
     clear: left;
 }
+
+figure {
+    text-align: right;
+    padding: px;
+    margin: px;
+}
