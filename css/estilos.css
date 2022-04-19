@@ -44,3 +44,12 @@ header {
     bottom: 0px;
     right: 0px;
 }
+
+.busca,
+.menu-departamentos {
+    float: left;
+}
+
+.menu-departamentos {
+    clear: left;
+}
