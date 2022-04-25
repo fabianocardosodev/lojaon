@@ -17,7 +17,7 @@
 }
 
 .menu-opcoes a {
-    color: #003366;
+    color: #333333;
 }
 
 body {
@@ -41,11 +41,11 @@ header {
 
 .menu-opcoes {
     position: absolute;
-    bottom: 0px;
+    bottom: 500px;
     right: 0px;
 }
 
-.busca,
+.search,
 .menu-departamentos {
     float: left;
 }
@@ -56,6 +56,4 @@ header {
 
 figure {
     text-align: right;
-    padding: px;
-    margin: px;
 }
