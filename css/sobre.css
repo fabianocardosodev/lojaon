@@ -28,7 +28,7 @@ figcaption {
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #f2EDED;
 }
 
 p {
@@ -88,7 +88,7 @@ figcaption {
 }
 
 .menu-opcoes a {
-    color: #003366;
+    color: #777;
 }
 
 .menu-opcoes ul li {
@@ -103,6 +103,20 @@ figcaption {
 
 .menu-opcoes {
     position: absolute;
-    bottom: 450px;
-    right: 250px;
+    bottom: 520px;
+    right: 190px;
+    background-color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+
+.menu-opcoes li {
+    margin-bottom: 1px;
+    padding: 5px 10px;
+}
+
+.menu-opcoes a {
+    color: #333333;
+    text-decoration: none;
 }
